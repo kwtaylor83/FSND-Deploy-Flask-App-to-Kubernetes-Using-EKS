@@ -89,7 +89,7 @@ Metadata:
       GitHubUser:
         default: kwtaylor83
       GitHubToken:
-        default: 6efc4a48018f9500a88ecc26626423cf3214175e
+        default: 
       GitSourceRepo:
         default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
       GitBranch:
